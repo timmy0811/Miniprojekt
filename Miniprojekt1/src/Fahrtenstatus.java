@@ -1,3 +1,3 @@
 public enum Fahrtenstatus {
-    verspätet, pünktlich, fällt_aus
+    VERSPAETET, PUENKTLICH, FAELLT_AUS
 }

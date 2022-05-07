@@ -2,7 +2,7 @@ public class Haltepunkt {
     private float coordX;
     private float coordY;
 
-    private String adresse;
+    private final String adresse;
 
     public Haltepunkt(String adresse){
         this.adresse = adresse;

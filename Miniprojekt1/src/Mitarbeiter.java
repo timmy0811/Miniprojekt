@@ -1,5 +1,5 @@
 public class Mitarbeiter extends Person{
-    private int mitarbeiterNummer;
+    private final int mitarbeiterNummer;
 
     public Mitarbeiter(String name, int mitarbeiterNummer){
         super(name);

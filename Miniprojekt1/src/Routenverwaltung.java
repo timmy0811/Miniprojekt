@@ -1,6 +1,6 @@
 public class Routenverwaltung {
     private Route route;
-    private Fahrer fahrer;
+    private final Fahrer fahrer;
     private Haltepunkt aktuellerHaltepunkt;
 
     public Routenverwaltung(Fahrer fahrer){

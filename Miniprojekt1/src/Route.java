@@ -2,8 +2,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Route {
-    private Haltepunkt abfahrtPunkt;
-    private Haltepunkt endPunkt;
+    private final Haltepunkt abfahrtPunkt;
+    private final Haltepunkt endPunkt;
 
     private List<Haltepunkt> zwischenStops = new ArrayList<>();
 

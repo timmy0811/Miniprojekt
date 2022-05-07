@@ -2,10 +2,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Kunde extends Person{
-    private String kundenID;
+    private final String kundenID;
 
     private Zahlungsmethode zahlungsmethode;
-    private List<Route> gebuchteRouten = new ArrayList<>();
+    private final List<Route> gebuchteRouten = new ArrayList<>();
 
     public Kunde(String name, String kundenID){
         super(name);

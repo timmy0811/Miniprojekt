@@ -5,18 +5,16 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class tests {
+@SuppressWarnings("NewClassNamingConvention")
+public class Tests {
+    Fahrer fahrer1 = new Fahrer("Kevin", 668, 69);
+    Routenverwaltung rv = new Routenverwaltung(fahrer1);
+    Haltepunkt hpEnd = new Haltepunkt("FHDW");
+    Haltepunkt hpAnfang = new Haltepunkt("HBF");
+    Route route1 = new Route(hpAnfang, hpEnd);
 
     @Test
     void testNaestenHaltepunktAnzeigen(){
-        Fahrer fahrer1 = new Fahrer("Kevin", 01234, 69);
-        Routenverwaltung rv = new Routenverwaltung(fahrer1);
-
-        Haltepunkt hpEnd = new Haltepunkt("FHDW");
-        Haltepunkt hpAnfang = new Haltepunkt("HBF");
-
-        Route route1 = new Route(hpAnfang, hpEnd);
-
         List<Haltepunkt> zwischenStops = new ArrayList<>();
         zwischenStops.add(new Haltepunkt("Marienstraße"));
         zwischenStops.add(new Haltepunkt("Braunschweiger Platz"));
@@ -31,15 +29,6 @@ public class tests {
 
     @Test
     void testletzenHaltepunktEinsehen(){
-        Fahrer fahrer1 = new Fahrer("Kevin", 01234, 69);
-
-        Routenverwaltung rv = new Routenverwaltung(fahrer1);
-
-        Haltepunkt hpEnd = new Haltepunkt("FHDW");
-        Haltepunkt hpAnfang = new Haltepunkt("HBF");
-
-        Route route1 = new Route(hpAnfang, hpEnd);
-
         List<Haltepunkt> zwischenStops = new ArrayList<>();
         zwischenStops.add(new Haltepunkt("Marienstraße"));
         zwischenStops.add(new Haltepunkt("Braunschweiger Platz"));
@@ -50,5 +39,4 @@ public class tests {
         assertEquals(rv.letztenHaltepunktEinsehen().getAdresse(), "FHDW");
     }
 
-    // Hallo Mama ich bin im Fernsehen!
 }

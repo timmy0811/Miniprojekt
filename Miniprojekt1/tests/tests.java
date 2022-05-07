@@ -49,4 +49,6 @@ public class tests {
 
         assertEquals(rv.letztenHaltepunktEinsehen().getAdresse(), "FHDW");
     }
+
+    // Hallo Mama ich bin im Fernsehen!
 }

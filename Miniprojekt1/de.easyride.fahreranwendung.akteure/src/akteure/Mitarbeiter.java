@@ -1,4 +1,4 @@
-package de.easyride.fahreranwendung.akteure;
+package akteure;
 
 public class Mitarbeiter extends Person{
     private final int mitarbeiterNummer;

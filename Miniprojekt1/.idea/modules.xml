@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Miniprojekt1.iml" filepath="$PROJECT_DIR$/Miniprojekt1.iml" />
       <module fileurl="file://$PROJECT_DIR$/de.easyride.akteure.iml" filepath="$PROJECT_DIR$/de.easyride.akteure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/de.easyride.fahreranwendung.akteure/de.easyride.fahreranwendung.akteure.iml" filepath="$PROJECT_DIR$/de.easyride.fahreranwendung.akteure/de.easyride.fahreranwendung.akteure.iml" />
     </modules>
   </component>
 </project>

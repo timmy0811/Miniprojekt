@@ -1,4 +1,4 @@
-package de.easyride.fahreranwendung.akteure;
+package akteure;
 
 public abstract class Person {
     private final String name;

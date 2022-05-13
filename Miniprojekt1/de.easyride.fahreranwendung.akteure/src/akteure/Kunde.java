@@ -1,4 +1,4 @@
-package de.easyride.fahreranwendung.akteure;
+package akteure;
 
 import java.util.ArrayList;
 import java.util.List;

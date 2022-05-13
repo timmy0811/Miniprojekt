@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/Miniprojekt1.iml" filepath="$PROJECT_DIR$/Miniprojekt1.iml" />
       <module fileurl="file://$PROJECT_DIR$/de.easyride.akteure.iml" filepath="$PROJECT_DIR$/de.easyride.akteure.iml" />
       <module fileurl="file://$PROJECT_DIR$/de.easyride.fahreranwendung.akteure/de.easyride.fahreranwendung.akteure.iml" filepath="$PROJECT_DIR$/de.easyride.fahreranwendung.akteure/de.easyride.fahreranwendung.akteure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/de.easyride.fahreranwendung.economy/de.easyride.fahreranwendung.economy.iml" filepath="$PROJECT_DIR$/de.easyride.fahreranwendung.economy/de.easyride.fahreranwendung.economy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/de.easyride.fahreranwendung.navigation/de.easyride.fahreranwendung.navigation.iml" filepath="$PROJECT_DIR$/de.easyride.fahreranwendung.navigation/de.easyride.fahreranwendung.navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/de.easyride.fahreranwendung.verwaltung/de.easyride.fahreranwendung.verwaltung.iml" filepath="$PROJECT_DIR$/de.easyride.fahreranwendung.verwaltung/de.easyride.fahreranwendung.verwaltung.iml" />
     </modules>
   </component>
 </project>

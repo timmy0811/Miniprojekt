@@ -1,2 +1,2 @@
-module $MODULE_NAME$ {
+module de.easyride.fahreranwendung.economy {
 }

@@ -1,4 +1,4 @@
-package de.easyride.fahreranwendung.verwaltung.api;
+package verwaltung.api;
 
 import de.easyride.fahreranwendung.navigation.Haltepunkt;
 

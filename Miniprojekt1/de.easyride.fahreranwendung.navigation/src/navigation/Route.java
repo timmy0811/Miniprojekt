@@ -1,4 +1,4 @@
-package de.easyride.fahreranwendung.navigation;
+package navigation;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package de.easyride.fahreranwendung.economy;
+package economy;
 
 public enum Zahlungsmethode {
     EC, Visa, Bar

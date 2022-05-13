@@ -1,3 +1,7 @@
+import de.easyride.fahreranwendung.akteure.Fahrer;
+import de.easyride.fahreranwendung.navigation.Haltepunkt;
+import de.easyride.fahreranwendung.navigation.Route;
+import de.easyride.fahreranwendung.verwaltung.impl.Routenverwaltung;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;

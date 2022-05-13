@@ -1,3 +1,5 @@
+package de.easyride.fahreranwendung.akteure;
+
 public abstract class Person {
     private final String name;
     private String telefonNummer;

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Miniprojekt1.iml" filepath="$PROJECT_DIR$/Miniprojekt1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/de.easyride.akteure.iml" filepath="$PROJECT_DIR$/de.easyride.akteure.iml" />
     </modules>
   </component>
 </project>

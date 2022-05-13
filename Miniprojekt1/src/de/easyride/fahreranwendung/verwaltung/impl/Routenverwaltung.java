@@ -1,4 +1,11 @@
-public class Routenverwaltung {
+package de.easyride.fahreranwendung.verwaltung.impl;
+
+import de.easyride.fahreranwendung.akteure.Fahrer;
+import de.easyride.fahreranwendung.navigation.Route;
+import de.easyride.fahreranwendung.navigation.Haltepunkt;
+import de.easyride.fahreranwendung.verwaltung.api.IRoutenverwaltung;
+
+public class Routenverwaltung implements IRoutenverwaltung {
     private Route route;
     private final Fahrer fahrer;
     private Haltepunkt aktuellerHaltepunkt;

@@ -1,3 +1,5 @@
+package de.easyride.fahreranwendung.navigation;
+
 public class Haltepunkt {
     private float coordX;
     private float coordY;

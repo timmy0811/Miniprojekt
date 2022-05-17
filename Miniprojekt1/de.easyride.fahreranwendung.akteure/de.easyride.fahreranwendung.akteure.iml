@@ -7,5 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="de.easyride.fahreranwendung.verwaltung" />
+    <orderEntry type="module" module-name="de.easyride.fahreranwendung.economy" />
   </component>
 </module>

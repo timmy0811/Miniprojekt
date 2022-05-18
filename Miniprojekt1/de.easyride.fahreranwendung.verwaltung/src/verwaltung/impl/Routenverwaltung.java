@@ -1,8 +1,8 @@
 package verwaltung.impl;
 
 import de.easyride.fahreranwendung.akteure.Fahrer;
-import de.easyride.fahreranwendung.navigation.Route;
 import de.easyride.fahreranwendung.navigation.Haltepunkt;
+import de.easyride.fahreranwendung.navigation.Route;
 import verwaltung.api.IRoutenverwaltung;
 
 public class Routenverwaltung implements IRoutenverwaltung {

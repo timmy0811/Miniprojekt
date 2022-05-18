@@ -7,5 +7,12 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+<<<<<<< Updated upstream
+    <orderEntry type="module" module-name="de.easyride.fahreranwendung.verwaltung" />
+    <orderEntry type="module" module-name="de.easyride.fahreranwendung.economy" />
+=======
+    <orderEntry type="module" module-name="de.easyride.fahreranwendung.economy" />
+    <orderEntry type="module" module-name="de.easyride.fahreranwendung.verwaltung" />
+>>>>>>> Stashed changes
   </component>
 </module>

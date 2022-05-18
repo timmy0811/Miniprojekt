@@ -3,12 +3,10 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Miniprojekt1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Miniprojekt1/tests" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="de.easyride.fahreranwendung.navigation" />
-    <orderEntry type="module" module-name="de.easyride.fahreranwendung.akteure" />
-    <orderEntry type="module" module-name="de.easyride.fahreranwendung.economy" />
   </component>
 </module>

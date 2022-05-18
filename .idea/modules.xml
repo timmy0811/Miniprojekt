@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Miniprojekt.iml" filepath="$PROJECT_DIR$/Miniprojekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Miniprojekt1/de.easyride.fahreranwendung.akteure/de.easyride.fahreranwendung.akteure.iml" filepath="$PROJECT_DIR$/Miniprojekt1/de.easyride.fahreranwendung.akteure/de.easyride.fahreranwendung.akteure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Miniprojekt1/de.easyride.fahreranwendung.economy/de.easyride.fahreranwendung.economy.iml" filepath="$PROJECT_DIR$/Miniprojekt1/de.easyride.fahreranwendung.economy/de.easyride.fahreranwendung.economy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Miniprojekt1/de.easyride.fahreranwendung.navigation/de.easyride.fahreranwendung.navigation.iml" filepath="$PROJECT_DIR$/Miniprojekt1/de.easyride.fahreranwendung.navigation/de.easyride.fahreranwendung.navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Miniprojekt1/de.easyride.fahreranwendung.verwaltung/de.easyride.fahreranwendung.verwaltung.iml" filepath="$PROJECT_DIR$/Miniprojekt1/de.easyride.fahreranwendung.verwaltung/de.easyride.fahreranwendung.verwaltung.iml" />
+    </modules>
+  </component>
+</project>
